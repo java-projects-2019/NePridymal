@@ -16,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/Neon"
+            android:background="@drawable/neon"
             android:text="Трек1"
             android:textColor="@color/colorAccent"/>
 
@@ -26,7 +26,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/Neon"
+            android:background="@drawable/neon"
             android:text="Трек2"
             android:textColor="@color/colorAccent"/>
 
@@ -35,7 +35,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/Neon"
+            android:background="@drawable/neon"
             android:text="Трек3"
             android:textColor="@color/colorAccent"/>
     </LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270181428636",
+    "firebase_url": "https://sabermobile-5f7a8.firebaseio.com",
+    "project_id": "sabermobile-5f7a8",
+    "storage_bucket": "sabermobile-5f7a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270181428636:android:485b2003e958cc090aac59",
+        "android_client_info": {
+          "package_name": "com.example.sabermobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270181428636-d9kujsjotbgcu1u2esvjobp49arm5134.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVEzo8IcX2_0H-PfHdpCPmpBcLYs0WzWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270181428636-d9kujsjotbgcu1u2esvjobp49arm5134.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
